@@ -4,7 +4,7 @@ import banner from '../../assets/banner.jpg'
 
 const Header = () => {
     return (
-        <div className='relative bg-[#9538E2] rounded-lg mb-80'>
+        <div className='relative bg-[#9538E2] rounded-lg'>
         <div className="navbar border-none  text-white ">
         <div className="navbar-start">
           <div className="dropdown">
@@ -49,7 +49,7 @@ const Header = () => {
 
       </div>
 
-      <div className="flex flex-col items-center text-center pb-50">
+      {/* <div className="flex flex-col items-center text-center pb-50">
   <h2 className="text-white font-bold text-4xl mt-14">
     Update Your Accessories with Our Awesome Gadget Shop
   </h2>
@@ -63,7 +63,7 @@ const Header = () => {
 
    <div className='flex justify-center'>
    <img className='absolute w-[638px] h-auto mx-auto -mt-40  border rounded-2xl' src={banner} alt="" />
-   </div>
+   </div> */}
 
 
 
