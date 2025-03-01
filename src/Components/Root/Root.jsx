@@ -6,15 +6,19 @@ import Footer from '../Footer/Footer';
 
 const Root = () => {
     return (
-        <div className='bg-[#09080F0D]'>
+       <div>
+         <div className='bg-[#09080F0D]'>
             <div className='max-w-7xl mx-auto mt-10'>
             <div className='bg-no-repeat rounded-xl '>
                 <Header></Header>
              <Outlet></Outlet>
-             <Footer></Footer>
+          
             </div>
         </div>
+       
         </div>
+        <Footer></Footer>
+       </div>
     );
 };
 

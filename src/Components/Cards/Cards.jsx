@@ -9,7 +9,7 @@ const navigate = useNavigate()
 
 
     return (
-        <div className="bg-white shadow-lg rounded-lg overflow-hidden  max-w-xs mx-auto">
+        <div className="bg-white shadow-lg rounded-lg overflow-hidden  max-w-xs mx-auto mb-20">
             <figure className=''>
                 <img src={accessory.product_image} alt={accessory.product_title} className="w-full h-48 object-cover rounded-lg " />
             </figure>
