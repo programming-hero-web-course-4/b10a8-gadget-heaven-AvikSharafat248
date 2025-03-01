@@ -21,8 +21,8 @@ const device = devicesData.find(item=>item.product_id===product_id)
         </div>
 <div className="card card-side bg-base-100 shadow-sm pb-5">
     
-    <figure>
-      <img className='w-[424.31px] p-4 rounded-3xl'
+    <figure className='m-8'>
+      <img className='w-[424.31px]  rounded-4xl'
         src={device.product_image}
         alt="Movie" />
     </figure>

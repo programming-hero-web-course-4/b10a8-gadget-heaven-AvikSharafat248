@@ -27,13 +27,3 @@ const navigate = useNavigate()
 };
 
 export default Cards;
-// product_id": "M002",
-//       "product_title": "Samsung",
-//       "product_image": "https://i.postimg.cc/YCK0vj6t/black-samsung.jpg",
-//       "category": "Mobile Phone",
-//       "price": 499.99,
-//       "description": "A sleek and stylish smartphone with a powerful processor and great camera.",
-//       "Specification": ["6.2-inch LCD display", "64GB storage", "6GB RAM", "32MP dual camera"],
-//       "availability": true,
-//       "rating": 4.5,
-//       "brand": "GalaxyTech"

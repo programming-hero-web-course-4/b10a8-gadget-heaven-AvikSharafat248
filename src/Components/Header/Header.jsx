@@ -25,7 +25,7 @@ const Header = () => {
             <ul
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-              <li><a href='Home'>Home</a></li>
+              <li><a href='/'>Home</a></li>
               
               <li><a>Statistics</a></li>
               <li><a>Dashbaord</a></li>
@@ -35,7 +35,7 @@ const Header = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
-            <li><a href='/Home'>Home</a></li>
+            <li><a href='/'>Home</a></li>
             <li>
 <a href="">Statistics</a>
             </li>
@@ -49,22 +49,7 @@ const Header = () => {
 
       </div>
 
-      {/* <div className="flex flex-col items-center text-center pb-50">
-  <h2 className="text-white font-bold text-4xl mt-14">
-    Update Your Accessories with Our Awesome Gadget Shop
-  </h2>
-  <p className="text-white w-[500px] mt-8 mb-8">
-    Explore our latest gadgets that will take your experience to a whole new level. For our coolest accessories please check our website.
-  </p>
-  <button className="bg-white text-[#9538E2] p-3 rounded-full">
-    Shop Now
-  </button>
-</div>
-
-   <div className='flex justify-center'>
-   <img className='absolute w-[638px] h-auto mx-auto -mt-40  border rounded-2xl' src={banner} alt="" />
-   </div> */}
-
+   
 
 
       </div>
