@@ -1,0 +1,6 @@
+.background {
+    background-image: url(../../assets/banner.jpg);
+    background-size: cover;
+    height: 694px;
+    background-repeat: no-repeat;
+}

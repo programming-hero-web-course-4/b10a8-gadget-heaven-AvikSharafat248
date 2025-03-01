@@ -1,0 +1,110 @@
+[
+  {
+    "product_id": "M001",
+    "product_title": "Smartphone X1",
+    "product_image": "https://i.postimg.cc/RCJnhkkQ/androidphones-2048px-04381.jpg",
+    "category": "Mobile Phone",
+    "price": 699.99,
+    "description": "A high-performance smartphone with a stunning display and long-lasting battery.",
+    "Specification": ["6.5-inch AMOLED display", "128GB storage", "8GB RAM", "48MP triple camera"],
+    "availability": "In Stock",
+    "rating": 4.7,
+    "brand": "TechBrand"
+  },
+  {
+    "product_id": "M002",
+    "product_title": "Samsung",
+    "product_image": "https://i.postimg.cc/YCK0vj6t/black-samsung.jpg",
+    "category": "Mobile Phone",
+    "price": 499.99,
+    "description": "A sleek and stylish smartphone with a powerful processor and great camera.",
+    "Specification": ["6.2-inch LCD display", "64GB storage", "6GB RAM", "32MP dual camera"],
+    "availability": "In Stock",
+    "rating": 4.5,
+    "brand": "GalaxyTech"
+  },
+  {
+    "product_id": "M003",
+    "product_title": "Phonix 10",
+    "product_image": "https://i.postimg.cc/j5wCWfFd/A54-01-Purple-Configurator-DT-800x600.webp",
+    "category": "Mobile Phone",
+    "price": 899.99,
+    "description": "A premium smartphone with advanced features and a durable design.",
+    "Specification": ["6.7-inch Super AMOLED display", "256GB storage", "12GB RAM", "108MP quad camera"],
+    "availability": "Out of Stock",
+    "rating": 4.8,
+    "brand": "Phonix"
+  },
+  {
+    "product_id": "H001",
+    "product_title": "SoundMax Pro",
+    "product_image": "https://i.postimg.cc/PxPvm9PH/Lighting-Headphone.jpg",
+    "category": "Headphones",
+    "price": 149.99,
+    "description": "Wireless over-ear headphones with noise cancellation and deep bass.",
+    "Specification": ["Bluetooth 5.0", "40mm drivers", "30-hour battery life", "Active Noise Cancellation"],
+    "availability": "In Stock",
+    "rating": 4.6,
+    "brand": "AudioTech"
+  },
+  {
+    "product_id": "H002",
+    "product_title": "BassBuds Lite",
+    "product_image": "https://i.postimg.cc/Vv0s6c5S/ear-phone-fun-leisure-music.jpg",
+    "category": "Headphones",
+    "price": 79.99,
+    "description": "True wireless earbuds with a compact design and powerful sound.",
+    "Specification": ["Bluetooth 5.2", "IPX5 water resistance", "20-hour battery life", "Touch controls"],
+    "availability": "In Stock",
+    "rating": 4.4,
+    "brand": "BassTech"
+  },
+  {
+    "product_id": "H003",
+    "product_title": "NoiseFree 300",
+    "product_image": "https://i.postimg.cc/sDSS6kKD/earphone-for-sigmatel-h3-full-touch-screen-tv-mobile-handsfree-in-ear-headphone-white-maxbhi-6-9-1.jpg",
+    "category": "Headphones",
+    "price": 199.99,
+    "description": "Premium noise-cancelling headphones with exceptional sound quality.",
+    "Specification": ["Bluetooth 5.1", "50mm drivers", "35-hour battery life", "Adaptive Noise Cancellation"],
+    "availability": "Out of Stock",
+    "rating": 4.9,
+    "brand": "SoundPro"
+  },
+  {
+    "product_id": "L001",
+    "product_title": "Chrome Book",
+    "product_image": "https://i.postimg.cc/BQ4HvbZz/laptop-3214756-1280.webp",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "A lightweight and powerful laptop for professionals and creators.",
+    "Specification": ["14-inch 4K display", "512GB SSD", "16GB RAM", "Intel Core i7 processor"],
+    "availability": "In Stock",
+    "rating": 4.7,
+    "brand": "UltraTech"
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.postimg.cc/sx9WcdmK/dell-xps-15-2023-1.webp",
+    "category": "Laptop",
+    "price": 1999.99,
+    "description": "A high-performance gaming laptop with a stunning display and advanced cooling system.",
+    "Specification": ["15.6-inch 144Hz display", "1TB SSD", "32GB RAM", "NVIDIA RTX 3070"],
+    "availability": "In Stock",
+    "rating": 4.8,
+    "brand": "GameTech"
+  },
+  {
+    "product_id": "L003",
+    "product_title": "Macbook Pro M4",
+    "product_image": "https://i.postimg.cc/4yvftQbZ/Macbook-pro-m4-review-hero-indybest.avif",
+    "category": "Laptop",
+    "price": 899.99,
+    "description": "A reliable laptop for everyday use with a long battery life.",
+    "Specification": ["120 Refresh Rate Full HD display", "512GB SSD", "16GB RAM", "M4 Pro"],
+    "availability": "In Stock",
+    "rating": 4.5,
+    "brand": "WorkTech"
+  }
+]
